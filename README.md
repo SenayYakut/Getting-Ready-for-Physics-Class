@@ -1,5 +1,20 @@
 # Getting-Ready-for-Physics-Class
 
-You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
+Getting Ready for Physics Class is a Python project.
 
-So it is very handy!
+Build some functions in Python to provide students that will help them calculate some fundamental physical properties.
+
+
+## Installation
+
+
+## Usage
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
